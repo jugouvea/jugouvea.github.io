@@ -1,0 +1,9 @@
+User-agent: GoogleBot
+Allow: /pagina-principal.html
+Allow: /curriculo.html
+Allow: /atendimento.html
+Allow: /portfolio-senai.html
+Allow: /formulario-contato.html
+User-agent: *
+Disallow: /
+Sitemap: http://juliagoumatos/sitemap.xml
